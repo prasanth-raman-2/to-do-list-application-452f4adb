@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/tmp/kavia/workspace/code-generation/to-do-list-application-452f4adb/To_do_list_application_-_Monolithic_Container"
+}
