@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/to-do-list-application-452f4adb/Todolistapplication_MonolithicContainer"
+}
